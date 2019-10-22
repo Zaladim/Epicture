@@ -1,2 +1,7 @@
 # Epicture
-Epitech imgur API in React Native
+
+```
+npm install -g expo-cli
+cd Epicture
+npm install
+npm start
